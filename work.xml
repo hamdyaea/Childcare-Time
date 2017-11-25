@@ -1,0 +1,11 @@
+<root>
+	<Bobby added="1 repas" date="28-12-2016" hours="7" />
+	<Bobby added="2 repas" date="28-12-2016" hours="3" />
+	<Sam added="1 repas" date="21-11-2017" hours="6" />
+	<Sam added="2 repas" date="21-12-2017" hours="4" />
+	<Sam added="1 repas" date="21-11-2017" hours="6" />
+	<Sam added="4 repas" date="21-10-2017" hours="4" />
+	<Sarah added="2 repas" date="21-11-2017" hours="6" />
+    <Bobby added="1 repas" date="21-03-2016" hours="4" />
+    <Bobby added="1 sac" date="30-02-2017" hours="4" />
+<Bobby added="1 Veste" date="21-12-2017" hours="3" /><Sarah added="3 Pommes" date="13-11-2017" hours="3" /><Sam added="1 Veste" date="31-10-2016" hours="4" /><Bobby added="" date="21-11-2017" hours="3" /></root>
