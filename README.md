@@ -2,7 +2,7 @@
 
 ## What's Childcare Time?
 
-Childcare Time is a software that give you the possibility to manage your a Childcare Time. (Hours, Date, Additional Stuff)  
+Childcare Time is a software that give you the possibility to manage your Childcare Time. (Hours, Date, Additional Stuff)  
 
 
 ![Screenshot](screenshot.png)
