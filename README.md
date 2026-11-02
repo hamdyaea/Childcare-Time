@@ -1,37 +1,16 @@
 # Childcare Time
 
-## What's Childcare Time?
+**Developer:** Hamdy Abou El Anein  
+**Contact:** info@daylightlinux.ch  
+**License:** GPL v3 (see LICENSE).
 
-Childcare Time is a software that give you the possibility to manage your Childcare Time. (Hours, Date, Additional Stuff)  
-
-
-![Screenshot](screenshot.png)
-
-
-## Exemple :
-
-This week you keep one child 4 hours, give 3 meals and the day was the 10-11-2017.  
-
-## What you need to make it work :
-
-This game is made for Python 3.  
-
-Install all the packages for : Python 3.  
-
-easygui at least version 0.98  
-
-```sh
-sudo python3 -m pip install --upgrade easygui  
-```  
-
-## How to launch the game :
+A Python 3/Tkinter application for browsing and adding entries to the repository's local `work.xml` childcare work log. The legacy XML is read without modifying old records, even if they contain historically invalid date strings. New records require ISO dates and validated hours. Every write creates a timestamped backup and uses atomic replacement.
 
 ```sh
 python3 ChildcareTime.py
+python3 -m unittest discover -s tests -v
 ```
 
+**Privacy:** The XML file may contain personal scheduling information. Do not publish real personal entries in a public repository. Back up `work.xml` before use. The GUI makes no network requests.
 
-## Developer - Author
-
-Hamdy Abou El Anein
-
+Original EasyGUI version: [old branch](https://github.com/hamdyaea/Childcare-Time/tree/old).
